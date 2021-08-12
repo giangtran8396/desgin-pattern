@@ -1,0 +1,11 @@
+D:\NET\Design Partten\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.deps.json
+D:\NET\Design Partten\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.json
+D:\NET\Design Partten\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.dev.json
+D:\NET\Design Partten\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.dll
+D:\NET\Design Partten\Facade\Facade\bin\Debug\netcoreapp2.2\Facade.pdb
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.csprojAssemblyReference.cache
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.csproj.CoreCompileInputs.cache
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfoInputs.cache
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfo.cs
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.dll
+D:\NET\Design Partten\Facade\Facade\obj\Debug\netcoreapp2.2\Facade.pdb

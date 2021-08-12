@@ -1,0 +1,11 @@
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.csprojAssemblyReference.cache
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.csproj.CoreCompileInputs.cache
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.AssemblyInfoInputs.cache
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.AssemblyInfo.cs
+C:\Users\giangtlq\source\repos\Bridge\Problem\bin\Debug\netcoreapp2.2\Problem.deps.json
+C:\Users\giangtlq\source\repos\Bridge\Problem\bin\Debug\netcoreapp2.2\Problem.runtimeconfig.json
+C:\Users\giangtlq\source\repos\Bridge\Problem\bin\Debug\netcoreapp2.2\Problem.runtimeconfig.dev.json
+C:\Users\giangtlq\source\repos\Bridge\Problem\bin\Debug\netcoreapp2.2\Problem.dll
+C:\Users\giangtlq\source\repos\Bridge\Problem\bin\Debug\netcoreapp2.2\Problem.pdb
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.dll
+C:\Users\giangtlq\source\repos\Bridge\Problem\obj\Debug\netcoreapp2.2\Problem.pdb

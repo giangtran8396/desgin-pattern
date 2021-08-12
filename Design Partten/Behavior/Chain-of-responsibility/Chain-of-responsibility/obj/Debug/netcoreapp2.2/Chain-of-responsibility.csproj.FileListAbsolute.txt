@@ -1,0 +1,23 @@
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.deps.json
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.runtimeconfig.json
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.runtimeconfig.dev.json
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.dll
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.pdb
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.csprojAssemblyReference.cache
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.csproj.CoreCompileInputs.cache
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.AssemblyInfoInputs.cache
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.AssemblyInfo.cs
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.dll
+D:\NET\Design Partten\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.pdb
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.deps.json
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.runtimeconfig.json
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.runtimeconfig.dev.json
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.dll
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\bin\Debug\netcoreapp2.2\Chain-of-responsibility.pdb
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.csprojAssemblyReference.cache
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.AssemblyInfoInputs.cache
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.AssemblyInfo.cs
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.csproj.CoreCompileInputs.cache
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.dll
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.pdb
+D:\Skill Up\App Design\Design Partten\Behavior\Chain-of-responsibility\Chain-of-responsibility\obj\Debug\netcoreapp2.2\Chain-of-responsibility.genruntimeconfig.cache

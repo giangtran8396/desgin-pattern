@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "C53Fnr2Qe6J2zDMYTcjjNXozmXwhFuPbfGLDsSjsrMGthNbmFgl+Wc9MqY1rO+4gnubM4QZeGVhtkFOjLAPiyg==",
+  "success": true,
+  "projectFilePath": "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\Chain-of-responsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\giangtlq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

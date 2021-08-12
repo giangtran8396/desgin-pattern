@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\Chain-of-responsibility.csproj": {}
+  },
+  "projects": {
+    "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\Chain-of-responsibility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\Chain-of-responsibility.csproj",
+        "projectName": "Chain-of-responsibility",
+        "projectPath": "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\Chain-of-responsibility.csproj",
+        "packagesPath": "C:\\Users\\giangtlq\\.nuget\\packages\\",
+        "outputPath": "D:\\Skill Up\\App Design\\Design Partten\\Behavior\\Chain-of-responsibility\\Chain-of-responsibility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\giangtlq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

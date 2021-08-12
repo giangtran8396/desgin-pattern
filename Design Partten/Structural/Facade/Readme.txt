@@ -1,0 +1,1 @@
+tạo ra một giao diện đơn giản cho người sử dụng một hệ thống phức tạp.

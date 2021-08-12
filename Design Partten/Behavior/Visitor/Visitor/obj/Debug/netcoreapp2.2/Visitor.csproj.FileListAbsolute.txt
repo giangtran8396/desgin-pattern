@@ -1,0 +1,11 @@
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.csprojAssemblyReference.cache
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.csproj.CoreCompileInputs.cache
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.AssemblyInfoInputs.cache
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.AssemblyInfo.cs
+D:\NET\Design Partten\Visitor\Visitor\bin\Debug\netcoreapp2.2\Visitor.deps.json
+D:\NET\Design Partten\Visitor\Visitor\bin\Debug\netcoreapp2.2\Visitor.runtimeconfig.json
+D:\NET\Design Partten\Visitor\Visitor\bin\Debug\netcoreapp2.2\Visitor.runtimeconfig.dev.json
+D:\NET\Design Partten\Visitor\Visitor\bin\Debug\netcoreapp2.2\Visitor.dll
+D:\NET\Design Partten\Visitor\Visitor\bin\Debug\netcoreapp2.2\Visitor.pdb
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.dll
+D:\NET\Design Partten\Visitor\Visitor\obj\Debug\netcoreapp2.2\Visitor.pdb

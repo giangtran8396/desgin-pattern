@@ -1,0 +1,11 @@
+C:\Users\giangtlq\source\repos\Bridge\Resolve\bin\Debug\netcoreapp2.2\Resolve.deps.json
+C:\Users\giangtlq\source\repos\Bridge\Resolve\bin\Debug\netcoreapp2.2\Resolve.runtimeconfig.json
+C:\Users\giangtlq\source\repos\Bridge\Resolve\bin\Debug\netcoreapp2.2\Resolve.runtimeconfig.dev.json
+C:\Users\giangtlq\source\repos\Bridge\Resolve\bin\Debug\netcoreapp2.2\Resolve.dll
+C:\Users\giangtlq\source\repos\Bridge\Resolve\bin\Debug\netcoreapp2.2\Resolve.pdb
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.csprojAssemblyReference.cache
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.csproj.CoreCompileInputs.cache
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.AssemblyInfoInputs.cache
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.AssemblyInfo.cs
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.dll
+C:\Users\giangtlq\source\repos\Bridge\Resolve\obj\Debug\netcoreapp2.2\Resolve.pdb
